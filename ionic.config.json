@@ -1,0 +1,8 @@
+{
+  "name": "HelPMR",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "c7655567"
+}
